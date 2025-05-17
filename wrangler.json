@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "broken-hat-2939",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "079324c5-ec36-4e3a-bacd-3d013c8d9eb9",
+      "database_name": "broken-wave-8976-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
